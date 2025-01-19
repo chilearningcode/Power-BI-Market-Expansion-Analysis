@@ -1,4 +1,4 @@
-# [Power BI] Superstore Sales | Market Expansion Strategy 
+# [Power BI] Stationery Retail Sales Data - Market Expansion Analysis 
 ## I. Introduction 
 ### Overview
 This Power BI project aims to analyze the market and product performance to identify opportunities for expanding into new markets. By leveraging data visualization and analysis tools, we will examine key metrics such as market trends, customer demographics, product performance, and competitive landscape. The insights gained from this analysis will inform strategic decisions, enhance market positioning, and drive business growth. Ultimately, this project will enable us to identify new market opportunities, optimize product offerings, and expand our market presence effectively.

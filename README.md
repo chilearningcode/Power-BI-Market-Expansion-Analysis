@@ -9,6 +9,23 @@ This Power BI project aims to analyze the market and product performance to iden
 
 ## II. Design Thinking Applying 
 ### Step 1 - Empathize 
+Applied 5W1H to define the problem
+
+| 5W1H | Answer |
+|-|-
+| Who will use this dashboard? -> Choose only one Stakeholder | R&D Dept., Sales Dept. -> **Sales Manager** | 
+| What problem this dashboard will tackle? -> Describe the problem in one sentence | To understand which products have good or bad revenue/sales performance, compare similar products, show the impact of each region on revenue, and identify the customer groups that influence sales. -> have a right decision on expansion stratergy base on data |
+| When and where will Stakeholders view this Dashboard? | This dashboard can be view weekly or monthly in the meeting. |
+| Why the Stakeholders need this dashboard? | 1. To know how products have progressed in sales over the past period
+
+2. Identify products with potential for further development
+
+3. Determine which products should be improved or discontinued
+
+4. Gain an overall understanding of the business situation
+
+5. Have a basis for making decisions
+
 
 ### Step 2 - Define POV 
 

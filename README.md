@@ -33,8 +33,21 @@ The Dataset
 |-|-
 | orders | returns <br> people <br> date
 
-
 ### Step 2 - Define POV 
+Find the North star metric
+
+| Questions | North star metric 1 | North star metric 2 
+|-|-|- 
+|What VALUE you want to measure?	|Revenue and Margin Profit | The products were actually sold without return |
+|WHEN the value DELIVERY SUCCESS?	|When will the product bring profit to company? | When and Why the products was returned? |
+|Northstar Metric Name	|% margin profit | % return rate |
+|WHY do you choose this metric?	|For high-profit products, we can launch promotional programs in new markets while maintaining reasonable profit margins initially.| High profitability is irrelevant if a product has a high return rate.|
+
+Define Point of View 
+
+| Group 1 | Group 2 | Group 3 | Group 4 |
+|-|-|-|-|
+|Overview Revenue and Growth Rate by Years, Months |Product analysis |Market, Regions analysis |Sales Person analysis |
 
 ### Step 3 - Ideate 
 

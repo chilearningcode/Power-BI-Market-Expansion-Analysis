@@ -19,6 +19,21 @@ Applied 5W1H to define the problem
 | Why the Stakeholders need this dashboard? | 1. To know how products have progressed in sales over the past period <br> 2. Identify products with potential for further development <br> 3. Determine which products should be improved or discontinued <br> 4. Gain an overall understanding of the business situation <br> 5. Have a basis for making decisions
 | How have the Stakeholders been achieving their goals so far? | Investigate and research the impact of each product on revenue and profit, by region or by different times of the year.
 
+|EMPATHY MAP | |
+|-|-|
+| Thinking and feeling |1. The sales manager believes that business performance is very good and that the company is operating smoothly. <br> 2. They believe there is potential for market development and expansion.
+| Seeing |Sales manager sees potential for further development.
+| Saying and doing |"We need more data-driven insights for the market expansion strategy" <br> Action: Explore better tools and processes for data analysis
+| Pains |The manager sees a growth trend but is unsure if this trend reflects the entire market or all products. Is the growth due to a specific product, or is it because a particular market has increasing demand?
+| Gains |What the stakeholder wants: <br> -> To use data to analyze overall performance and the details of each product. <br> -> To avoid bias in evaluations.
+
+The Dataset 
+
+|Fact table | Dim table |
+|-|-
+| orders | returns <br> people <br> date
+
+
 ### Step 2 - Define POV 
 
 ### Step 3 - Ideate 

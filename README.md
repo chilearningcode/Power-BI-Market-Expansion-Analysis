@@ -43,11 +43,18 @@ Find the North star metric
 |Northstar Metric Name	|% margin profit | % return rate |
 |WHY do you choose this metric?	|For high-profit products, we can launch promotional programs in new markets while maintaining reasonable profit margins initially.| High profitability is irrelevant if a product has a high return rate.|
 
-Define Point of View 
+Dimension Data Group 
 
-| Group 1 | Group 2 | Group 3 | Group 4 |
-|-|-|-|-|
-|Overview Revenue and Growth Rate by Years, Months |Product analysis |Market, Regions analysis |Sales Person analysis |
+| Group 1 | Group 2 | Group 3 | Group 3 |
+|-|-|-|-
+|Product |Market, Regions |Sales Person analysis | Return rates 
+
+| The Views | Description | Why |
+|-|-|-
+| Revenue, Profit and Growth rate by Years, Months | Business performance over the years, growth rate, revenue share by customers, market | How the company works over years 
+| Product revenue, Return rates analysis | Mainly analyze sub-category, revenue, sales volume, and profit, return rate - which products are returned, and how is the proportion | gain valuable insights into your business's performance across different types of the products, allowing to make informed decisions to drive growth and profitability
+| Region & Sales person analysis | How do different markets consume products, and what are the corresponding profits and return rates? | To understand the characteristics of each market, markets segmentation and performance of the sales persons of each market <br> This helps us gain insights into the new market where we plan to release the product and determine if it shares any similarities with the existing markets 
+
 
 ### Step 3 - Ideate 
 

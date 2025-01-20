@@ -58,7 +58,13 @@ Dimension Data Group
 
 ### Step 3 - Ideate 
 
-Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
+| Idea name | Layer 0 dimension: <br> Total metric | Layer 1 dimension: <br> Breakdown & Analyze the metric by 1 dimension | Layer 0 dimension: <br> Breakdown & Analyze the metric by 2 dimension | Is there anything missed 
+|-|-|-|-|-
+| Revenue | Revenue, Profit | Revenue, Profit by yearly, monthly <br> % Growth rate by yearly, monthly |
+| Product analysis | Return rate | Product revenue <br> Product profit <br> Product return rate | Revenue contribution by product <br> Product revuenue and return rate |
+| Market, Region analysis | Return rate | Market revunue <br> Market profit <br> Segment revenue, profit | Revenue contribution by market <br> Segment revenue and return rate <br> Market profit and return rate | Sales persons performance 
+
+Next, I moved on to Step 4 - Prototype and Review, iterating multiple times to refine the results. The final output will be showcased in the following section as a dashboard.
 
 ## III. Dashboard 
 

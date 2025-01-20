@@ -69,10 +69,16 @@ Next, I moved on to Step 4 - Prototype and Review, iterating multiple times to r
 ## III. Dashboard 
 
 ### Data modeling 
+![Screenshot 2025-01-20 140051](https://github.com/user-attachments/assets/e647642b-03e2-4215-8e07-4754f74cabb1)
 
-### View 1: 
+### View 1: Overview 
+![Screenshot 2025-01-20 140104](https://github.com/user-attachments/assets/1afc2199-3149-49f9-81a1-aae40e6cd43f)
 
-### View 2: 
+### View 2: Product Analysis
+![Screenshot 2025-01-20 140152](https://github.com/user-attachments/assets/9548ce2a-d680-49b8-83a8-8a3ee28dc835)
+
+### View 3: Market Analysis
+![Screenshot 2025-01-20 140207](https://github.com/user-attachments/assets/27999c95-2586-4e54-a6a1-64fa2c2e09e1)
 
 ## IV. Insights 
 

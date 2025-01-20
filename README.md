@@ -58,7 +58,7 @@ Dimension Data Group
 
 ### Step 3 - Ideate 
 
-| Idea name | Layer 0 dimension: <br> Total metric | Layer 1 dimension: <br> Breakdown & Analyze the metric by 1 dimension | Layer 0 dimension: <br> Breakdown & Analyze the metric by 2 dimension | Is there anything missed 
+| Idea name | Layer 0 dimension: <br> Total metric | Layer 1 dimension: <br> Breakdown the metric by 1 dimension | Layer 0 dimension: <br> Breakdown the metric by 2 dimension | Is there anything missed 
 |-|-|-|-|-
 | Revenue | Revenue, Profit | Revenue, Profit by yearly, monthly <br> % Growth rate by yearly, monthly |
 | Product analysis | Return rate | Product revenue <br> Product profit <br> Product return rate | Revenue contribution by product <br> Product revuenue and return rate |

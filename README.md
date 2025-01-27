@@ -6,8 +6,22 @@ This Power BI project aims to analyze the market and product performance to iden
 ### Dataset 
 [🧷link to the dataset](https://drive.google.com/drive/folders/1oGbuHPBQECXKUcbhjuYOgk-ZH55Uau-g?usp=drive_link)
 
+## II. Insights and Recommendations 
+### Insights
+The company's sales revenue has demonstrated a significant upward trend, **growing from approximately 99 million in January 2011 to over 503 million in December 2014**, with an **average monthly growth rate of 10.2%**. This impressive growth indicates strong market demand and effective sales strategies. In analyzing product categories:
 
-## II. Design Thinking Applying 
+- **Furniture**: Although not the top-selling category, Furniture, particularly Chairs, shows notable potential for growth. This suggests an opportunity to capitalize on the increasing demand for home and office furniture.
+- **Office Supplies**: This category, especially the Storage and Appliance groups, has high sales but also high return rates. This indicates a need to improve product quality and customer satisfaction to reduce returns and enhance profitability.
+- **Technologies**: Phones and Copiers in this category exhibit strong sales and low return rates, making them highly profitable. This suggests focusing on these products can drive sustained growth and revenue.
+
+### Recommendations 
+
+- **APAC Region**: With the highest sales and lowest return rates, this region presents a prime opportunity for expansion. Focus on increasing market penetration and brand presence to capitalize on the existing demand.
+- **EMEA Region**: Despite high return rates, this region offers significant revenue potential. Implementing strategies to improve product quality and customer experience can help tap into this market's full potential.
+- **Africa and Canada**: Africa shows steady sales growth, while Canada has the lowest sales. Tailored strategies focusing on product appeal and customer satisfaction can drive growth in these regions. For example, in Africa, enhance marketing efforts and in Canada, introduce products that meet specific market needs.
+- **Product Focus**: Emphasize products with high profitability and low return rates, like Phones and Copiers, to drive revenue. Additionally, improve customer experience for high-return items like Storage and Appliances to increase overall satisfaction and reduce returns.
+
+## III. Design Thinking Applying 
 ### Step 1 - Empathize 
 Applied 5W1H to define the problem
 

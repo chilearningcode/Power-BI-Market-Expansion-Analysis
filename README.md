@@ -6,7 +6,7 @@ This Power BI project aims to analyze the market and product performance to iden
 ### Dataset 
 [🧷link to the dataset](https://drive.google.com/drive/folders/1oGbuHPBQECXKUcbhjuYOgk-ZH55Uau-g?usp=drive_link)
 
-## II. Insights and Recommendations 
+## II. Insights and Recommendations (cần chỉnh sửa insight, đưa ra insights có liên kết với Northstar metric) 
 ### Insights
 The company's sales revenue has demonstrated a significant upward trend, **growing from approximately 99 million in January 2011 to over 503 million in December 2014**, with an **average monthly growth rate of 10.2%**. This impressive growth indicates strong market demand and effective sales strategies. In analyzing product categories:
 

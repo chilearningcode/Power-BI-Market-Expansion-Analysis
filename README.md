@@ -6,7 +6,7 @@ This Power BI project aims to analyze the market and product performance to iden
 ### Dataset 
 [🧷link to the dataset](https://drive.google.com/drive/folders/1oGbuHPBQECXKUcbhjuYOgk-ZH55Uau-g?usp=drive_link)
 
-## II. Insights and Recommendations (cần chỉnh sửa insight, đưa ra insights có liên kết với Northstar metric) 
+## II. Insights and Recommendations
 The business demonstrates robust growth, with a Month-on-Month (MoM) **growth rate of about 4%**. The **average profit margin stands at 12%**, and the **successful order rate is approximately 95%**.
 
 APAC is currently the largest contributor to revenue, while Canada is the smallest. However, **the profit margins from the Canadian market** are significantly higher compared to other markets **(26.6%)**.

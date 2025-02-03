@@ -8,10 +8,10 @@ This Power BI project aims to analyze the market and product performance to iden
 
 ## II. Insights and Recommendations
 
-The business demonstrates robust growth, with a Month-on-Month (MoM) **growth rate of about 4%**. The **average profit margin stands at 12%**, and the **successful order rate is approximately 95%**. <br> 
-APAC is currently the largest contributor to revenue, while Canada is the smallest. However, **the profit margins from the Canadian market** are significantly higher compared to other markets **(26.6%)**. <br> 
-Among customer segments, the Consumer group leads in revenue contribution, followed by the Cooperate and Home Office groups. Profit margins across these segments are fairly consistent, ranging from 11.8% to 12.6%. <br> 
-Products in the Technologies category lead in revenue generation, followed by Furniture and Office Suppliers, all contributing relatively evenly. However, Table products within the Furniture group show negative profits and a high return rate, suggesting potential quality issues.
+- The business demonstrates robust growth, with a Month-on-Month (MoM) **growth rate of about 4%**. The **average profit margin stands at 12%**, and the **successful order rate is approximately 95%**. <br> 
+- APAC is currently the largest contributor to revenue, while Canada is the smallest. However, **the profit margins from the Canadian market** are significantly higher compared to other markets **(26.6%)**. <br> 
+- Among customer segments, the Consumer group leads in revenue contribution, followed by the Cooperate and Home Office groups. Profit margins across these segments are fairly consistent, ranging from 11.8% to 12.6%. <br> 
+- Products in the Technologies category lead in revenue generation, followed by Furniture and Office Suppliers, all contributing relatively evenly. However, Table products within the Furniture group show negative profits and a high return rate, suggesting potential quality issues.
 
 | Market | Insights | Recommendations 
 |-|-|- 

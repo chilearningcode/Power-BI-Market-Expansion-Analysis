@@ -2,9 +2,9 @@
 ![16f357b7-c72b-4864-81ea-864ebbaba84c](https://github.com/user-attachments/assets/cdb1dca0-8c73-4724-80d1-a59ec5661ffd)
 
 # 📊 Project Title: Stationery Retail Sales Data - Market Expansion Analysis  
-Author: [Tri Nguyen](https://www.linkedin.com/in/chilamviec/) 
-Date: Nov. 30, 2024 
-Tools Used: Power BI
+🤵 Author: [Tri Nguyen](https://www.linkedin.com/in/chilamviec/) <br> 
+📆 Date: Nov. 30, 2024  <br> 
+💻 Tools Used: Power BI
 
 ---
 

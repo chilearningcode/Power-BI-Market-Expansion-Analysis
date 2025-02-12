@@ -27,39 +27,179 @@ Tools Used: SQL/ Power BI/ Python
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
-✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+➡️ **The Sales Manager** can make data-driven decisions on expansion strategies.
 
 ###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
 
- _Example:_
-
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+- How can we leverage data-driven insights to enhance business performance and support market expansion?
+- What are the specific growth opportunities, and do these trends accurately reflect the overall market or particular products?
+- How can we ensure that our performance analysis remains unbiased and comprehensive while pursuing market development strategies?
 
 ### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
 
- _Example:_
-
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
+- **Overall Business Performance**: The business shows strong growth with a Month-on-Month (MoM) growth rate of 4%. The average profit margin is 12%, and the successful order rate is approximately 95%.
+- **Regional Insights**: APAC is the largest revenue contributor, while Canada has the smallest revenue share but the highest profit margins at 26.6%.
+- **Customer Segments**: The Consumer group leads in revenue contribution, followed by the Corporate and Home Office groups. Profit margins across these segments are consistent, ranging from 11.8% to 12.6%.
+- **Product Categories**: The Technologies category generates the most revenue, followed by Furniture and Office Suppliers. However, Table products within the Furniture group show negative profits and high return rates, indicating potential quality issues.
 
 ---
 
+## 📂 Dataset Description & Data Structure  
+
+### 📌 Data Source  
+- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
+- Size: (Mention the number of rows & columns)  
+- Format: (.csv, .sql, .xlsx, etc.)  
+
+### 📊 Data Structure & Relationships  
+
+#### 1️⃣ Tables Used:  
+
+There're: 
+- 2 fact table: `Orders` and `Returns`
+- 1 dim table: `People 
+
+#### 2️⃣ Table Schema & Data Snapshot  
+
+Table 1: Orders 
+
+| Column Name       | Data Type       | Description                                                                 |
+|-------------------|-----------------|-----------------------------------------------------------------------------|
+| Order ID          | int             | A unique identifier for each order.                                         |
+| Order Date        | datetime        | The date when the order was placed.                                         |
+| Ship Date         | datetime        | The date when the order was shipped.                                        |
+| Ship Mode         | nvarchar(50)    | The method or mode of shipping used for the order.                          |
+| Customer          | nvarchar(50)    | The name or identifier of the customer who placed the order.                |
+| Customer Segment  | nvarchar(50)    | The segment or category to which the customer belongs.                      |
+| City              | nvarchar(50)    | The city where the customer is located.                                     |
+| State             | nvarchar(50)    | The state where the customer is located.                                    |
+| Country           | nvarchar(50)    | The country where the customer is located.                                  |
+| Postal Code       | nvarchar(20)    | The postal code of the customer's location.                                 |
+| Market            | nvarchar(50)    | The market or region where the order was placed.                            |
+| Region            | nvarchar(50)    | The specific region within the market where the order was placed.           |
+| Product ID        | int             | A unique identifier for each product in the order.                          |
+| Category          | nvarchar(50)    | The category to which the product belongs.                                  |
+| Sub-Category      | nvarchar(50)    | The sub-category to which the product belongs.                              |
+| Product Name      | nvarchar(100)   | The name of the product.                                                    |
+| Sales             | money           | The total sales amount for the order.                                       |
+| Quantity          | int             | The quantity of products ordered.                                           |
+| Profit            | money           | The profit earned from the order.                                           |
 
 
+Table 2: Returns
+
+| Column Name  | Data Type | Description                        |
+|--------------|-----------|------------------------------------|
+| Returned     | bit       | Indicates if the order was returned. |
+| Order ID     | int       | A unique identifier for each order. |
 
 
+Table 3: People 
+
+| Column Name       | Data Type        | Description                                                |
+|-------------------|------------------|------------------------------------------------------------|
+| Person            | nvarchar(255)    | The name of the person.                                    |
+| Region            | nvarchar(255)    | The region where the person is located.                    |
+
+
+#### 3️⃣ Data Relationships:  
+
+![Screenshot 2025-02-12 134017](https://github.com/user-attachments/assets/eed00ddb-5d9d-4fe3-baaf-afb4c9666683)
+
+---
+
+## 🧠 Design Thinking Process  
+
+Explain the step-by-step approach taken to solve the problem.  
+
+👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
+
+1️⃣ Empathize  
+
+➡️ Applied 5W1H to define the problem
+
+| 5W1H | Answer |
+|-|-
+| Who will use this dashboard? <br> -> Choose only one Stakeholder | R&D Dept., Sales Dept. <br> -> **Sales Manager** | 
+| What problem this dashboard will tackle? <br> -> Describe the problem in one sentence | To understand which products have good or bad revenue/sales performance, compare similar products, show the impact of each region on revenue, and identify the customer groups that influence sales. <br> -> **have a right decision on expansion stratergy base on data** |
+| When and where will Stakeholders view this Dashboard? | This dashboard can be view weekly or monthly in the meeting. |
+| Why the Stakeholders need this dashboard? | 1. To know how products have progressed in sales over the past period <br> 2. Identify products with potential for further development <br> 3. Determine which products should be improved or discontinued <br> 4. Gain an overall understanding of the business situation <br> 5. Have a basis for making decisions
+| How have the Stakeholders been achieving their goals so far? | Investigate and research the impact of each product on revenue and profit, by region or by different times of the year.
+
+➡️ Empathy Map for Stakeholders 
+
+| Stakeholder Emotion| Detailed Description |
+|-|-|
+| Thinking and feeling |1. The sales manager believes that business performance is very good and that the company is operating smoothly. <br> 2. They believe there is potential for market development and expansion.
+| Seeing |Sales manager sees potential for further development.
+| Saying and doing |"We need more data-driven insights for the market expansion strategy" <br> Action: Explore better tools and processes for data analysis
+| Pains |The manager sees a growth trend but is unsure if this trend reflects the entire market or all products. Is the growth due to a specific product, or is it because a particular market has increasing demand?
+| Gains |What the stakeholder wants: <br> -> To use data to analyze overall performance and the details of each product. <br> -> To avoid bias in evaluations.
+
+2️⃣ Define point of view  
+
+➡️ Find the North star metric
+
+| Questions | North star metric 1 | North star metric 2 
+|-|-|- 
+|What VALUE you want to measure?	|Revenue and Margin Profit | The products were actually sold without return |
+|WHEN the value DELIVERY SUCCESS?	|When will the product bring profit to company? | When and Why the products was returned? |
+|Northstar Metric Name	|% margin profit | % return rate |
+|WHY do you choose this metric?	|For high-profit products, we can launch promotional programs in new markets while maintaining reasonable profit margins initially.| High profitability is irrelevant if a product has a high return rate.|
+
+➡️ Dimension Data Group 
+
+| Group 1 | Group 2 | Group 3 | Group 3 |
+|-|-|-|-
+|Product |Market, Regions |Sales Person analysis | Return rates 
+
+| The Views | Description | Why |
+|-|-|-
+| Revenue, Profit and Growth rate by Years, Months | Business performance over the years, growth rate, revenue share by customers, market | How the company works over years 
+| Product revenue, Return rates analysis | Mainly analyze sub-category, revenue, sales volume, and profit, return rate - which products are returned, and how is the proportion | gain valuable insights into your business's performance across different types of the products, allowing to make informed decisions to drive growth and profitability
+| Region & Sales person analysis | How do different markets consume products, and what are the corresponding profits and return rates? | To understand the characteristics of each market, markets segmentation and performance of the sales persons of each market <br> This helps us gain insights into the new market where we plan to release the product and determine if it shares any similarities with the existing markets 
+
+3️⃣ Ideate  
+
+| Idea name | Layer 0 dimension: <br> Total metric | Layer 1 dimension: <br> Breakdown the metric by 1 dimension | Layer 0 dimension: <br> Breakdown the metric by 2 dimension | Is there anything missed 
+|-|-|-|-|-
+| Revenue | Revenue, Profit | Revenue, Profit by yearly, monthly <br> % Growth rate by yearly, monthly |
+| Product analysis | Return rate | Product revenue <br> Product profit <br> Product return rate | Revenue contribution by product <br> Product revuenue and return rate |
+| Market, Region analysis | Return rate | Market revunue <br> Market profit <br> Segment revenue, profit | Revenue contribution by market <br> Segment revenue and return rate <br> Market profit and return rate | Sales persons performance 
+
+4️⃣ Prototype and review  
+
+---
+
+## 📊 Key Insights & Visualizations  
+
+### 🔍 Dashboard Preview  
+
+#### 1️⃣ Overview   
+
+![Screenshot 2025-01-20 140104](https://github.com/user-attachments/assets/1afc2199-3149-49f9-81a1-aae40e6cd43f)
+
+📌 Analysis 1:  
+- Observation: _Describe trends, key metrics, and patterns._  
+- Recommendation: _Suggest actions based on insights._  
+
+#### 2️⃣ Market Analysis 
+
+![Screenshot 2025-01-20 140207](https://github.com/user-attachments/assets/27999c95-2586-4e54-a6a1-64fa2c2e09e1)
+
+📌 Analysis 2:   
+- Observation: _Describe trends, key metrics, and patterns._  
+- Recommendation: _Suggest actions based on insights._  
+
+#### 3️⃣ Product Analysis 
+
+![Screenshot 2025-01-20 140152](https://github.com/user-attachments/assets/9548ce2a-d680-49b8-83a8-8a3ee28dc835)
+
+📌 Analysis 3:  
+- Observation: _Describe trends, key metrics, and patterns._  
+- Recommendation: _Suggest actions based on insights._  
+
+---
 
 
 

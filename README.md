@@ -1,10 +1,10 @@
 
 ![16f357b7-c72b-4864-81ea-864ebbaba84c](https://github.com/user-attachments/assets/cdb1dca0-8c73-4724-80d1-a59ec5661ffd)
 
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+# 📊 Project Title: Stationery Retail Sales Data - Market Expansion Analysis  
+Author: [Tri Nguyen](https://www.linkedin.com/in/chilamviec/) 
+Date: Nov. 30, 2024 
+Tools Used: Power BI
 
 ---
 
@@ -47,9 +47,9 @@ Tools Used: SQL/ Power BI/ Python
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: [🧷link to the dataset](https://drive.google.com/drive/folders/1oGbuHPBQECXKUcbhjuYOgk-ZH55Uau-g?usp=drive_link)
+- Size: 51,291 rows 
+- Format: .csv
 
 ### 📊 Data Structure & Relationships  
 

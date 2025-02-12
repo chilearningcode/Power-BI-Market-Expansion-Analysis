@@ -110,10 +110,6 @@ Table 3: People
 
 ## 🧠 Design Thinking Process  
 
-Explain the step-by-step approach taken to solve the problem.  
-
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
-
 1️⃣ Empathize  
 
 ➡️ Applied 5W1H to define the problem

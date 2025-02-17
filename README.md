@@ -198,15 +198,15 @@ Table 3: People
 
 📊 Dashboard 1: Overview   
 
-![Screenshot 2025-01-20 140104](https://github.com/user-attachments/assets/1afc2199-3149-49f9-81a1-aae40e6cd43f)
+![image](https://github.com/user-attachments/assets/453a3570-e431-4132-a99c-df54d1a86eda)
 
 📊 Dashboard 2: Market Analysis 
 
-![Screenshot 2025-01-20 140207](https://github.com/user-attachments/assets/27999c95-2586-4e54-a6a1-64fa2c2e09e1)
+![image](https://github.com/user-attachments/assets/011c7851-f12f-4103-92c9-fde752388046)
 
 📊 Dashboard 3: Product Analysis
 
-![Screenshot 2025-01-20 140152](https://github.com/user-attachments/assets/9548ce2a-d680-49b8-83a8-8a3ee28dc835)
+![image](https://github.com/user-attachments/assets/1d6c5224-8496-48b2-b1b0-cf0047cd25f6)
 
 ---
 

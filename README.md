@@ -226,7 +226,7 @@ Table 3: People
   - Focus on Cost Optimization - Identify and implement strategies to reduce operational costs and improve profit margins.
   - Seasonal Strategy - Leverage seasonal patterns for marketing and resource allocation to maximize peak periods and mitigate dips.
 
-#### 2️⃣ Market shares and Categories' contribution  
+#### 2️⃣ Markets' and Product Categories' contribution  
 
 ![image](https://github.com/user-attachments/assets/ae703d05-6c0f-4daf-b267-b61b0a4257f9)
 
@@ -248,6 +248,28 @@ Table 3: People
   - The Central Region leads in overall market revenue, with a below-average return rate of 4.8%. It also has a monthly growth rate of 4.6%, which is higher than the overall average, indicating an effective sales strategy.
 - Recommendation:
   - Develop a new marketing strategy for this region to enhance and maintain customer loyalty. 
+
+#### 4️⃣ Product 
+
+![image](https://github.com/user-attachments/assets/8feb0468-45c4-4a29-a6e4-68cc2e707a41)
+
+📌 Analysis 4:  
+- Observation: 
+  - Phones, Chairs, and Copiers lead in revenue and overall show good profit, whereas Tables exhibit a negative profit.
+- Recommendation:
+  - Enhance the quality and durability of tables to attract more customers, increase satisfaction, and reduce return rates.
+ 
+#### 5️⃣ Top 5 Products 
+
+![image](https://github.com/user-attachments/assets/60e8377b-6036-4c35-a3cd-390c3e7f280f)
+
+📌 Analysis 5:  
+- Observation: 
+  - The top 5 products with the highest order counts indicate high customer demand and good quality.
+  - The top 5 products with the highest return rates suggest issues with product quality or marketing, leading to misunderstandings about product usage.
+- Recommendation:
+  - Leverage high-demand products for market expansion with targeted marketing efforts.
+  - Address quality issues and improve product descriptions to reduce high return rates. 
 
 ---
 

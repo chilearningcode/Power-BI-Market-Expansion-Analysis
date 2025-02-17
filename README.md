@@ -214,28 +214,38 @@ Table 3: People
 
 ### 🔍 Dashboard Preview  
 
-#### 1️⃣ Overview   
+#### 1️⃣ Overall trend    
 
-![Screenshot 2025-01-20 140104](https://github.com/user-attachments/assets/1afc2199-3149-49f9-81a1-aae40e6cd43f)
+![image](https://github.com/user-attachments/assets/d9428b22-ca1c-441f-aa66-77e7c4babc08)
 
 📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+- Observation:
+  - Consistent Revenue Growth - Revenue shows a consistent upward trend, highlighting a positive growth trajectory.
+  - Stable, Low Profit - Profit remains flat, suggesting challenges in managing costs or heavy reinvestment.
+- Recommendation: _Suggest actions based on insights._
+  - Focus on Cost Optimization - Identify and implement strategies to reduce operational costs and improve profit margins.
+  - Seasonal Strategy - Leverage seasonal patterns for marketing and resource allocation to maximize peak periods and mitigate dips.
 
-#### 2️⃣ Market Analysis 
+#### 2️⃣ Market shares and Categories' contribution  
 
-![Screenshot 2025-01-20 140207](https://github.com/user-attachments/assets/27999c95-2586-4e54-a6a1-64fa2c2e09e1)
+![image](https://github.com/user-attachments/assets/ae703d05-6c0f-4daf-b267-b61b0a4257f9)
 
 📌 Analysis 2:   
-- Observation: _Describe trends, key metrics, and patterns._  
+- Observation: 
+  - The APAC market tops revenue and profit, indicating strong performance.
+  - The Consumer segment shows the highest revenue and profit among all segments.
+  - Technology products are the top contributer. 
 - Recommendation: _Suggest actions based on insights._  
-
+  - Prioritize market expansion and tailored strategies in the APAC region.
+  - Invest in consumer-targeted products and marketing efforts.
 #### 3️⃣ Product Analysis 
 
-![Screenshot 2025-01-20 140152](https://github.com/user-attachments/assets/9548ce2a-d680-49b8-83a8-8a3ee28dc835)
+![image](https://github.com/user-attachments/assets/400afd23-3acf-4c3a-b877-8a283ce780a7)
 
-📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns._  
+📌 Analysis 3:  Regions 
+- Observation: 
+  - Cetral Region of all market contribute the most to the revuenue, return rate at 4.8 - below average
+  - 
 - Recommendation: _Suggest actions based on insights._  
 
 ---

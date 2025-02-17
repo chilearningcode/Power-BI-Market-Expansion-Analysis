@@ -238,15 +238,16 @@ Table 3: People
 - Recommendation: _Suggest actions based on insights._  
   - Prioritize market expansion and tailored strategies in the APAC region.
   - Invest in consumer-targeted products and marketing efforts.
-#### 3️⃣ Product Analysis 
+#### 3️⃣ Regions
 
+![image](https://github.com/user-attachments/assets/a98c9235-6478-4d19-a3c9-ddbefa674bd0)
 ![image](https://github.com/user-attachments/assets/400afd23-3acf-4c3a-b877-8a283ce780a7)
 
-📌 Analysis 3:  Regions 
+📌 Analysis 3:  
 - Observation: 
-  - Cetral Region of all market contribute the most to the revuenue, return rate at 4.8 - below average
-  - 
-- Recommendation: _Suggest actions based on insights._  
+  - The Central Region leads in overall market revenue, with a below-average return rate of 4.8%. It also has a monthly growth rate of 4.6%, which is higher than the overall average, indicating an effective sales strategy.
+- Recommendation:
+  - Develop a new marketing strategy for this region to enhance and maintain customer loyalty. 
 
 ---
 

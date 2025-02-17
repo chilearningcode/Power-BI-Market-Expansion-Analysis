@@ -165,6 +165,49 @@ Table 3: People
 
 4️⃣ Prototype and review  
 
+
+## ⚒️ Main Process
+
+1️⃣ Apply CodeM to create Dim_Date table 
+
+| Column Name     | Description                            |
+|-----------------|----------------------------------------|
+| Date            | The specific date.                     |
+| Year            | The year of the given date.            |
+| Month           | The month of the given date.           |
+| WeekofYear      | The week number within the year.       |
+| WeekDay         | The day of the week for the given date.|
+
+2️⃣ Apply DAX to calculate the metrics 
+
+| _Calculation      | Description                              |
+|-------------------|------------------------------------------|
+| %margin_profit    | Percentage of margin profit              |
+| %MoM_profit_rate  | Month-over-Month profit rate             |
+| %MoM_revenue      | Month-over-Month revenue                 |
+| %return_rates     | Percentage of return rates               |
+| orders_count      | Number of orders                         |
+| price_per_1item   | Price per one item                       |
+| profit_per_1item  | Profit per one item                      |
+| returns_count     | Number of returns                        |
+| total_profit      | Total profit                             |
+| total_quantity    | Total quantity of items                  |
+| total_revenue     | Total revenue                            |
+
+3️⃣ Power BI Visualization  (applicable for PBI Projects)
+
+📊 Dashboard 1: Overview   
+
+![Screenshot 2025-01-20 140104](https://github.com/user-attachments/assets/1afc2199-3149-49f9-81a1-aae40e6cd43f)
+
+📊 Dashboard 2: Market Analysis 
+
+![Screenshot 2025-01-20 140207](https://github.com/user-attachments/assets/27999c95-2586-4e54-a6a1-64fa2c2e09e1)
+
+📊 Dashboard 3: Product Analysis
+
+![Screenshot 2025-01-20 140152](https://github.com/user-attachments/assets/9548ce2a-d680-49b8-83a8-8a3ee28dc835)
+
 ---
 
 ## 📊 Key Insights & Visualizations  

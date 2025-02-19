@@ -136,6 +136,7 @@ There're:
 
 ![image](https://github.com/user-attachments/assets/d7c36e89-885b-4748-b6fa-87ed032aed30)
 
+<!---
 | Stakeholder Emotion| Detailed Description |
 |-|-|
 | Thinking and feeling |1. The sales manager believes that business performance is very good and that the company is operating smoothly. <br> 2. They believe there is potential for market development and expansion.
@@ -143,6 +144,7 @@ There're:
 | Saying and doing |Saying: "We need more data-driven insights for the market expansion strategy" <br> Action: Explore better tools and processes for data analysis
 | Pains |The manager sees a growth trend but is unsure if this trend reflects the entire market or all products. Is the growth due to a specific product, or is it because a particular market has increasing demand?
 | Gains |What the stakeholder wants: <br> -> To use data to analyze overall performance and the details of each product. <br> -> To avoid bias in evaluations.
+---> 
 
 2️⃣ Define point of view  
 

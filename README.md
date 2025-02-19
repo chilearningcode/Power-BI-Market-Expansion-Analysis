@@ -183,7 +183,7 @@ There're:
 
 3️⃣ Ideate  
 
-![image](https://github.com/user-attachments/assets/a6d1ecd7-a8bd-4431-8b1a-c17a89171cb9)
+![image](https://github.com/user-attachments/assets/b58d7dd9-9d86-4e66-8f0d-f755507b2abf)
 
 <!---
 | Idea name | Layer 0 dimension: <br> Total metric | Layer 1 dimension: <br> Breakdown the metric by 1 dimension | Layer 0 dimension: <br> Breakdown the metric by 2 dimension | Is there anything missed 

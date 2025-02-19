@@ -61,7 +61,8 @@ There're:
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Orders 
+<details>
+<summary>Table 1: Orders </summary>
 
 | Column Name       | Data Type       | Description                                                                 |
 |-------------------|-----------------|-----------------------------------------------------------------------------|
@@ -85,22 +86,27 @@ Table 1: Orders
 | Quantity          | int             | The quantity of products ordered.                                           |
 | Profit            | money           | The profit earned from the order.                                           |
 
+</details>
 
-Table 2: Returns
+<details>
+<summary>Table 2: Returns</summary>
 
 | Column Name  | Data Type | Description                        |
 |--------------|-----------|------------------------------------|
 | Returned     | bit       | Indicates if the order was returned. |
 | Order ID     | int       | A unique identifier for each order. |
 
+</details>
 
-Table 3: People 
+<details>
+<summary>Table 3: People</summary> 
 
 | Column Name       | Data Type        | Description                                                |
 |-------------------|------------------|------------------------------------------------------------|
 | Person            | nvarchar(255)    | The name of the person.                                    |
 | Region            | nvarchar(255)    | The region where the person is located.                    |
 
+</details>
 
 #### 3️⃣ Data Relationships:  
 
@@ -114,6 +120,8 @@ Table 3: People
 
 ➡️ Applied 5W1H to define the problem
 
+![image](https://github.com/user-attachments/assets/f860d163-7ace-46c2-b8d7-f10ea5b6ff6d)
+
 | 5W1H | Answer |
 |-|-
 | Who will use this dashboard? <br> -> Choose only one Stakeholder | R&D Dept., Sales Dept. <br> -> **Sales Manager** | 
@@ -124,17 +132,21 @@ Table 3: People
 
 ➡️ Empathy Map for Stakeholders 
 
+![image](https://github.com/user-attachments/assets/d7c36e89-885b-4748-b6fa-87ed032aed30)
+
 | Stakeholder Emotion| Detailed Description |
 |-|-|
 | Thinking and feeling |1. The sales manager believes that business performance is very good and that the company is operating smoothly. <br> 2. They believe there is potential for market development and expansion.
 | Seeing |Sales manager sees potential for further development.
-| Saying and doing |"We need more data-driven insights for the market expansion strategy" <br> Action: Explore better tools and processes for data analysis
+| Saying and doing |Saying: "We need more data-driven insights for the market expansion strategy" <br> Action: Explore better tools and processes for data analysis
 | Pains |The manager sees a growth trend but is unsure if this trend reflects the entire market or all products. Is the growth due to a specific product, or is it because a particular market has increasing demand?
 | Gains |What the stakeholder wants: <br> -> To use data to analyze overall performance and the details of each product. <br> -> To avoid bias in evaluations.
 
 2️⃣ Define point of view  
 
 ➡️ Find the North star metric
+
+![image](https://github.com/user-attachments/assets/32acd6fb-36cb-4a12-be2f-e1df2ee420eb)
 
 | Questions | North star metric 1 | North star metric 2 
 |-|-|- 
@@ -145,9 +157,13 @@ Table 3: People
 
 ➡️ Dimension Data Group 
 
+![image](https://github.com/user-attachments/assets/a2701ec3-d3ca-47b0-872f-a09abe62f612)
+
 | Group 1 | Group 2 | Group 3 | Group 3 |
 |-|-|-|-
 |Product |Market, Regions |Sales Person analysis | Return rates 
+
+![image](https://github.com/user-attachments/assets/f8458ad6-6777-4a4d-b25b-d945c2b58fcc)
 
 | The Views | Description | Why |
 |-|-|-
@@ -156,6 +172,8 @@ Table 3: People
 | Region & Sales person analysis | How do different markets consume products, and what are the corresponding profits and return rates? | To understand the characteristics of each market, markets segmentation and performance of the sales persons of each market <br> This helps us gain insights into the new market where we plan to release the product and determine if it shares any similarities with the existing markets 
 
 3️⃣ Ideate  
+
+![image](https://github.com/user-attachments/assets/a6d1ecd7-a8bd-4431-8b1a-c17a89171cb9)
 
 | Idea name | Layer 0 dimension: <br> Total metric | Layer 1 dimension: <br> Breakdown the metric by 1 dimension | Layer 0 dimension: <br> Breakdown the metric by 2 dimension | Is there anything missed 
 |-|-|-|-|-

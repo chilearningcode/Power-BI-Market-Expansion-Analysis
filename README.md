@@ -122,6 +122,7 @@ There're:
 
 ![image](https://github.com/user-attachments/assets/f860d163-7ace-46c2-b8d7-f10ea5b6ff6d)
 
+<!---
 | 5W1H | Answer |
 |-|-
 | Who will use this dashboard? <br> -> Choose only one Stakeholder | R&D Dept., Sales Dept. <br> -> **Sales Manager** | 
@@ -129,6 +130,7 @@ There're:
 | When and where will Stakeholders view this Dashboard? | This dashboard can be view weekly or monthly in the meeting. |
 | Why the Stakeholders need this dashboard? | 1. To know how products have progressed in sales over the past period <br> 2. Identify products with potential for further development <br> 3. Determine which products should be improved or discontinued <br> 4. Gain an overall understanding of the business situation <br> 5. Have a basis for making decisions
 | How have the Stakeholders been achieving their goals so far? | Investigate and research the impact of each product on revenue and profit, by region or by different times of the year.
+---> 
 
 ➡️ Empathy Map for Stakeholders 
 
